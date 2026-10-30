@@ -1,0 +1,43 @@
+<svg width="1024" height="1024" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Mănăstiri Pelerini</title>
+
+<rect width="680" height="680" rx="140" fill="#1A3A5C"/>
+
+<rect x="180" y="480" width="320" height="120" rx="4" fill="#0D2235"/>
+<rect x="200" y="460" width="280" height="140" rx="4" fill="#0D2235"/>
+
+<rect x="220" y="340" width="100" height="140" fill="#C8A96E"/>
+<rect x="360" y="340" width="100" height="140" fill="#C8A96E"/>
+
+<rect x="240" y="280" width="200" height="180" rx="6" fill="#E8C98A"/>
+
+<path d="M240 280 Q340 220 440 280" fill="#C8A96E"/>
+
+<rect x="295" y="230" width="90" height="60" rx="45" fill="#C8A96E"/>
+
+<rect x="325" y="110" width="30" height="140" fill="#E8C98A"/>
+<rect x="295" y="155" width="90" height="22" fill="#E8C98A"/>
+
+<rect x="225" y="340" width="90" height="20" rx="4" fill="#B8935A"/>
+<rect x="365" y="340" width="90" height="20" rx="4" fill="#B8935A"/>
+<rect x="245" y="280" width="190" height="16" rx="4" fill="#B8935A"/>
+
+<rect x="305" y="370" width="70" height="110" rx="4" fill="#1A3A5C"/>
+
+<rect x="255" y="375" width="50" height="45" rx="20" fill="#1A3A5C"/>
+<rect x="375" y="375" width="50" height="45" rx="20" fill="#1A3A5C"/>
+
+<rect x="265" y="385" width="32" height="26" rx="13" fill="#7EB8D4"/>
+<rect x="383" y="385" width="32" height="26" rx="13" fill="#7EB8D4"/>
+
+<rect x="330" y="110" width="20" height="8" fill="#D4A84B"/>
+<rect x="336" y="104" width="8" height="20" fill="#D4A84B"/>
+
+<rect x="295" y="157" width="90" height="18" rx="4" fill="#D4A84B"/>
+
+<circle cx="160" cy="200" r="6" fill="#D4A84B" opacity="0.6"/>
+<circle cx="130" cy="260" r="4" fill="#D4A84B" opacity="0.4"/>
+<circle cx="520" cy="180" r="5" fill="#D4A84B" opacity="0.5"/>
+<circle cx="545" cy="250" r="3" fill="#D4A84B" opacity="0.4"/>
+<circle cx="500" cy="300" r="4" fill="#D4A84B" opacity="0.3"/>
+</svg>
