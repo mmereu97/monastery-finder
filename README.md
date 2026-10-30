@@ -5,6 +5,8 @@
 
 I built it for our own pilgrimages and use it on my phone.
 
+<p align="center"><img src="docs/screenshot.png" width="300" alt="Monastery Finder: monasteries sorted by distance"></p>
+
 **Tech:** Flutter / Dart · flutter_map (OpenStreetMap) · geolocator · SharedPreferences · Google Maps intents
 
 ---
@@ -13,6 +15,7 @@ I built it for our own pilgrimages and use it on my phone.
 
 - **Nearest first:** the list is sorted by distance from your GPS position (Haversine) and shows the **direction** (bearing from north) of each monastery.
 - **Plan ahead from a saved place:** save locations such as a hotel or a relative's house (name + coordinates, pasted in any common format) and see the monasteries around *that* place instead of your current position.
+- **Search** by name, county or dedication (hram), and filter **all / not visited / visited**.
 - **Filter by community size:** a minimum number of monks or nuns, to skip abandoned hermitages or find the large monasteries.
 - **Map:** all monasteries on an OpenStreetMap map, respecting the same filter.
 - **Details:** dedication (hram), founding year, region, archdiocese and metropolis, number of monks or nuns, coordinates (copy with one tap).
